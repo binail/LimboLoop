@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: e492f460d7881a542a5edbb9b57ee11d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Location_Ground
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4072
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdffd5ed1e053004d9651801cd9440f3
+      internalID: 1958547319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4072
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31a2ad5ecd97d245a2b29e6a7cfab0c
+      internalID: 425323148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 4072
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de0e019767c4fb459f60cbf0ae5ab8f
+      internalID: -81015314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4072
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ebff2aeef12f64d9b952ff67c73984
+      internalID: 658756268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_Tree_0
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 3417
+        width: 396
+        height: 417
+      alignment: 9
+      pivot: {x: 0.5020359, y: 0.051506646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358b5c4a21cf94343b6e67481a66a5d7
+      internalID: 1912198795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_Stella
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3852
+        width: 96
+        height: 269
+      alignment: 9
+      pivot: {x: 0.51478577, y: 0.12531675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e66c71ab1e93b4d837b6dbfc6b5dd6
+      internalID: -474185207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_Symbol_0
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3872
+        width: 95
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c7ab050af3c524c9e5f7ff7b5eafde
+      internalID: -627083109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_Symbol_1
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 3872
+        width: 95
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a219b4d3e50671444b3b940fe8cb39ba
+      internalID: 1366633750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_Symbol_3
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 3876
+        width: 95
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913e858bde03fd245b4c9b917f8736c4
+      internalID: -1365932818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_Stone_Big
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 3422
+        width: 239
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7acf73c4428680489f4d953628a5561
+      internalID: 186807062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_Stone_Medium
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 3641
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad07f4851ab4a1e498813e5cf0f68e1f
+      internalID: -1507051639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_Stone_Small
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 3522
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34891fcd839fa742bebff24b0258027
+      internalID: -1543955770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Crab_Body
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3500
+        width: 87
+        height: 85
+      alignment: 9
+      pivot: {x: 0.50335616, y: 0.034091882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837d4189893539143975dcf196586c4a
+      internalID: 501980254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Crag_Leg
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3497
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.49999592, y: 0.969613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8003de220f26a534581a04768e61aba8
+      internalID: 1970075761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Warden_Body
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 3268
+        width: 101
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5356438, y: 0.026310537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e715e114cb05e5d42b38cf7d00b21701
+      internalID: 384036384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Warden_Arm_0
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 3310
+        width: 50
+        height: 85
+      alignment: 9
+      pivot: {x: 0.50812685, y: 0.06497587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51817c2796fc0eb4fb0cbf890682954f
+      internalID: -1727069413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Warden_Arm_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 3300
+        width: 38
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4999992, y: 0.048507124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbed444a9c30b2d4988288ab23986979
+      internalID: 1850823033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warden_Head
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 3413
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280ac114120ad014483135f301a45b21
+      internalID: 31126959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Location_Ground: 1958547319
+      Location_Symbol_0: -627083109
+      Location_Stella: -474185207
+      Enemy_Warden_Arm_1: 1850823033
+      Location_3: 658756268
+      Enemy_Crab_Body: 501980254
+      Location_Symbol_3: -1365932818
+      Location_Stone_Medium: -1507051639
+      Enemy_Warden_Body: 384036384
+      Warden_Head: 31126959
+      Location_Stone_Small: -1543955770
+      Location_1: 425323148
+      Location_Tree_0: 1912198795
+      Enemy_Crag_Leg: 1970075761
+      Location_Symbol_1: 1366633750
+      Enemy_Warden_Arm_0: -1727069413
+      Location_2: -81015314
+      Location_Stone_Big: 186807062
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

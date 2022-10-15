@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: d55d6dd647d8ef1408a60fa629b03101
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Location_New_Ground
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3967
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b723d5bf085111c44ad5635f3f21e38c
+      internalID: -1890407336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_Props_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131beb45f49706e40a313b7f97d8c01d
+      internalID: 2100178139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_Props_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57be2d36aff4694cb06315d7900e018
+      internalID: 979166895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_Props_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161b607d81849bc43862de204af63434
+      internalID: -1551651090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_Props_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95c343fee2ade24e84e681712f860d1
+      internalID: -886485258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_Props_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3ef5fc7d097d94cb86988c3dce433f
+      internalID: 306532995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_Stella
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 3709
+        width: 150
+        height: 359
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17827298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a9572ccc9b6f345846cccd95f1084f
+      internalID: -199541634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_Tree_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3180
+        width: 497
+        height: 430
+      alignment: 9
+      pivot: {x: 0.5975855, y: 0.069767445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d5940d329bcf744b57b7ffb24a0e77
+      internalID: -658723795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_Tree_1
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 3123
+        width: 398
+        height: 496
+      alignment: 9
+      pivot: {x: 0.46733668, y: 0.070564516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c88d793b1a7b84cb5e2c061cc923c9
+      internalID: 155463055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_Tree_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2495
+        width: 496
+        height: 494
+      alignment: 9
+      pivot: {x: 0.5221774, y: 0.07489879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609b7932db3062942aaf90884022cb39
+      internalID: 457365109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_Tree_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2380
+        width: 460
+        height: 537
+      alignment: 9
+      pivot: {x: 0.4869565, y: 0.05214153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f9e9132c41ef94b92a677d907e4c7d
+      internalID: 1008605448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_0
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2298
+        width: 157
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c877043aa96e547b806803ddc1b8e0
+      internalID: 301046250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_1
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 3738
+        width: 225
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ace17f76d427741bd2793a86d27c8f
+      internalID: -1802723855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_2
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 3738
+        width: 224
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c811c8bda05b24247bdb41288e8f910d
+      internalID: -1315269891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_3
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 3739
+        width: 224
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fff2c1cc315bfe49b0245c6e1986ced
+      internalID: -1463306048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3838
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00a3306a6585a342a292a52f2228dbe
+      internalID: -1215951736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3840
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e00e28d08f456745a4d1c2eadef0a6b
+      internalID: -1054828740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3840
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f06ddd275e9fd4419e2e72500abc962
+      internalID: -1229545073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3840
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f870ee4c6675ba84896885b4561e3c2e
+      internalID: 1298987110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_Bridge
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2414
+        width: 956
+        height: 1636
+      alignment: 9
+      pivot: {x: 0.19665271, y: 0.66075796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29dc45dc467f1e4b9ab0635c653855d
+      internalID: 696705475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_Water
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3835
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da83ca2990b5d74482611df8d3f0f0c
+      internalID: 1228556335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Range
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 2198
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d55083121c30e9468ca9f27d727811b
+      internalID: -1184957132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_8
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 1699
+        width: 953
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732752502770ce64eaadc2740bace279
+      internalID: 1203779199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Range_Projectile
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2229
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc6d5b3029919f498af37c1a1f18c21
+      internalID: -1602361409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1643
+        width: 763
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5c5fe70ca4a254bb1373a864a17418
+      internalID: -1177870544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_10
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 2200
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a5cdc2545c51c4b8506d8afec2f479
+      internalID: 907353589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_11
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1135
+        width: 397
+        height: 744
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262055fc846b87a4abfd67f49e96a0b1
+      internalID: -1128077031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_12
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 1181
+        width: 397
+        height: 1096
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549851f5439477549af1d5d31579467c
+      internalID: 643863785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_13
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 949
+        width: 397
+        height: 1323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57e101a64a18e943b5da873cda175dc
+      internalID: -226853033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_Door
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 570
+        width: 310
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de641ff3e4bbb848aedd1041efc7f93
+      internalID: 357893851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_New_14
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 563
+        width: 174
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8abccb6f49050a41bee8caf65b72c54
+      internalID: 670890527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Location_New_Props_4: 306532995
+      Location_New_Props_1: 979166895
+      Location_New_9: -1177870544
+      Location_New_6: -1229545073
+      Location_New_Tree_0: -658723795
+      Location_New_11: -1128077031
+      Location_New_Props_3: -886485258
+      Location_New_Bridge: 696705475
+      Enemy_Range: -1184957132
+      Location_New_Stella: -199541634
+      Location_New_12: 643863785
+      Location_Door: 357893851
+      Location_New_0: 301046250
+      Location_New_Tree_2: 457365109
+      Location_New_8: 1203779199
+      Location_New_Props_0: 2100178139
+      Location_New_1: -1802723855
+      Location_New_Props_2: -1551651090
+      Location_New_Tree_1: 155463055
+      Location_New_10: 907353589
+      Enemy_Range_Projectile: 1188353664
+      Location_New_3: -1463306048
+      Location_New_13: -226853033
+      Location_New_Tree_3: 1008605448
+      Location_New_2: -1315269891
+      Location_New_7: 1298987110
+      Location_New_4: -1215951736
+      Location_New_Water: 1228556335
+      Location_New_5: -1054828740
+      Location_New_14: 670890527
+      Location_New_Ground: -1890407336
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
